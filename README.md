@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous&size=22&pause=1000&color=E4F744&center=true&multiline=true&width=435&height=60&lines=From+idea+to+interface+;making+things+that+actually+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Metamorphous&size=22&pause=1000&color=E4F744&center=true&vCenter=true&multiline=true&width=435&height=60&lines=From+idea+to+interface+;making+things+that+actually+work)](https://git.io/typing-svg)
 
 ## 👋 About Me
 Hi! I'm **Yana Pechenenko** — a Frontend Developer who loves creating clean, accessible, and user‑friendly digital experiences.  
