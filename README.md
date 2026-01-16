@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=From+idea+to+interface+—+making+things+that+actually+work;Yana+Pechenenko+·+Frontend+Developer"
+  />
+</p>
 
-<!--
-**YanaP1312/YanaP1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi! I'm **Yana Pechenenko** — a Frontend Developer who loves creating clean, accessible, and user‑friendly digital experiences.  
+I work with **HTML5, CSS3/SCSS, JavaScript, TypeScript, React, Redux, Node.js, Express, MongoDB, and Next.js** — building products that are both functional and meaningful.
 
-Here are some ideas to get you started:
+For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical thinking**. I enjoy the moment when structure meets imagination and turns into a real, effective solution that helps people. That balance is what keeps me inspired every day. ✨ What drives me is **growth 🌱, curiosity 🔍, and the desire to build things that genuinely work ⚡**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+ - 💻 Web development & modern frontend technologies 
+ - 🎨 UI/UX and digital aesthetics 
+ - ⚙️ System thinking & automation 
+ - 📚 Continuous learning and self‑development 
+ - 🌍 Traveling & exploring new cultures 
+ - 🎭 Visiting theatres & exploring museums 
+ - 🧠 Psychology & understanding human behavior 
+ - 💬 Learning languages
+
+## 🚀 Technologies I Want to Learn
+
+- 📱 React Native — to build cross‑platform mobile applications  
+- 🐍 Python — for automation, backend tools, and expanding versatility  
+- ⚛️ Advanced Next.js — deeper SSR, performance, architecture patterns  
+- 🗄️ Databases & backend patterns — PostgreSQL, Prisma, advanced API design  
+- ☁️ Cloud & deployment — AWS, Vercel, CI/CD basics  
+- 🧪 Testing frameworks — Jest, React Testing Library, Cypress  
+
+## 📊 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaP1312&layout=compact&theme=tokyonight"
+  />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YanaP1312&theme=tokyonight&hide_border=true"
+  />
+</p>
