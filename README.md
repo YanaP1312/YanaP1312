@@ -1,8 +1,4 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=From+idea+to+interface+—+making+things+that+actually+work;Yana+Pechenenko+·+Frontend+Developer"
-  />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&width=700&lines=From+idea+to+interface+—+making+things+that+actually+work;Yana+Pechenenko+·+Frontend+Developer)](https://git.io/typing-svg)
 
 ## 👋 About Me
 Hi! I'm **Yana Pechenenko** — a Frontend Developer who loves creating clean, accessible, and user‑friendly digital experiences.  
@@ -31,16 +27,9 @@ For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical 
 
 ## 📊 Top Languages
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanaP1312&layout=compact&theme=tokyonight"
-  />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanaP1312&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YanaP1312&theme=tokyonight&hide_border=true"
-  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=YanaP1312&theme=whatsapp-dark2&border_radius=8&mode=weekly)](https://git.io/streak-stats)
