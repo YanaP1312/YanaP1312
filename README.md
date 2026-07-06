@@ -38,7 +38,7 @@ For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical 
 
 ## 📊 Top Languages
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=ambient_gradient)
 
 
 ## 🔥 GitHub Streak
