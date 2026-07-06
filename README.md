@@ -4,38 +4,47 @@
   </a>
 </p>
 
-## 👋 About Me
-Hi! I'm **Yana** — a Frontend Developer who loves creating clean, accessible, and user‑friendly digital experiences.  
-I work with **HTML5, CSS3/SCSS, JavaScript, TypeScript, React, Redux, Node.js, Express, MongoDB, and Next.js** — building products that are both functional and meaningful.
+## 👋 About me
+
+Hi! I'm **Yana** — a Full-Stack Developer who loves creating clean, accessible, and user-friendly digital experiences, from the interface all the way down to the API and database.
+
+I work with **JavaScript, TypeScript, React, Redux, Next.js, HTML5, CSS3/SCSS, Node.js, Express, Java, Spring Boot, MongoDB, and PostgreSQL** — building products that are both functional and meaningful.
 
 For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical thinking**. I enjoy the moment when structure meets imagination and turns into a real, effective solution that helps people. That balance is what keeps me inspired every day. ✨ What drives me is **growth 🌱, curiosity 🔍, and the desire to build things that genuinely work ⚡**.
 
 ## 🌱 Interests
- - 💻 Web development & modern frontend technologies 
- - 🎨 UI/UX and digital aesthetics 
- - ⚙️ System thinking & automation 
- - 📚 Continuous learning and self‑development 
- - 🌍 Traveling & exploring new cultures 
- - 🎭 Visiting theatres & exploring museums 
- - 🧠 Psychology & understanding human behavior 
- - 💬 Learning languages
 
-## 🚀 Technologies I Want to Learn
+- 💻 Full-stack development & modern web technologies
+- 🎨 UI/UX and digital aesthetics
+- ⚙️ System thinking & automation
+- 📚 Continuous learning and self-development
+- 🌍 Traveling & exploring new cultures
+- 🎭 Visiting theatres & exploring museums
+- 🧠 Psychology & understanding human behavior
+- 💬 Learning languages
 
-- 📱 React Native — to build cross‑platform mobile applications  
-- 🐍 Python — for automation, backend tools, and expanding versatility  
-- ⚛️ Advanced Next.js — deeper SSR, performance, architecture patterns  
-- 🗄️ Databases & backend patterns — PostgreSQL, Prisma, advanced API design  
-- ☁️ Cloud & deployment — AWS, Vercel, CI/CD basics  
+## 🔧 Currently deepening
+
+- 🐳 Docker & containerization
+- 🔁 CI/CD pipelines
+
+## 🚀 Technologies I want to learn
+
+- 📱 React Native — to build cross-platform mobile applications
+- 🐍 Python — for automation, backend tools, and expanding versatility
+- ⚛️ Advanced Next.js — deeper SSR, performance, architecture patterns
+- ☁️ Cloud & deployment — AWS
 - 🧪 Testing frameworks — Jest, React Testing Library, Cypress  
 
 ## 📊 Top Languages
 
-<p align="center"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YanaP1312&layout=compact&theme=tokyonight"/></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=YanaP1312&layout=donut&langs_count=6&hide_values=true&theme=radical)
 
 
 ## 🔥 GitHub Streak
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YanaP1312&theme=horizon&hide_border=true&border_radius=5)"/></a></p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=YanaP1312&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=YanaP1312&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=ambient_gradient)
+
+
 
 
