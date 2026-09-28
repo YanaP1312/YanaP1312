@@ -17,7 +17,7 @@ For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical 
 **[LocEvent](https://github.com/HackYourFutureProjects/c55-final-project-group-A)** · [Live Demo]([https://your-demo-link](https://c55a.hyf.dev))  
 A full-stack platform for discovering local events across the Netherlands, combining admin-created events with ~900 real Ticketmaster listings from our data pipeline.
 
-Team of five across three tracks: frontend ([Diana]([https://github.com/d](https://github.com/dianadenwik))), backend (me & [Shadi]([https://github.com/shadi](https://github.com/shmoonwalker))), and data ([Mohammed]([https://github.com/name](https://github.com/mohammedalfakih-dev)) & [Pavel]([https://github.com/name](https://github.com/pavel-tisner))).
+Team of five across three tracks: frontend ([Diana]([https://github.com/d](https://github.com/dianadenwik)), backend (me & [Shadi]([https://github.com/shadi](https://github.com/shmoonwalker)), and data ([Mohammed]([https://github.com/name](https://github.com/mohammedalfakih-dev)) & [Pavel]([https://github.com/name](https://github.com/pavel-tisner)).
 
 **What I built on the backend:**
 - 🔐 **Authentication** — sign-up, login and logout with HttpOnly cookie sessions (only token hashes stored), plus Google OAuth with CSRF protection and verified-email checks
