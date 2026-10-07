@@ -6,18 +6,42 @@
 
 ## 👋 About me
 
-Hi! I'm **Yana** — a Full-Stack Developer who loves creating clean, accessible, and user-friendly digital experiences, from the interface all the way down to the API and database.
+# Hi, I'm Yana 👋
 
-I work with **JavaScript, TypeScript, React, Redux, Next.js, HTML5, CSS3/SCSS, Node.js, Express, Java, Spring Boot, MongoDB, and PostgreSQL** — building products that are both functional and meaningful.
+Full-stack developer with a focus on the back end: the logic, data and security that keep everything running behind the screen.
 
-For me, coding is a perfect fusion of **🎨 creativity** and **📊 analytical thinking**. I enjoy the moment when structure meets imagination and turns into a real, effective solution that helps people. That balance is what keeps me inspired every day. ✨ What drives me is **growth 🌱, curiosity 🔍, and the desire to build things that genuinely work ⚡**.
+- 🌱 Learning: Docker and CI/CD pipelines
+- 🎓 Trained at HackYourFuture, Back-End track
+- 💡 Fun fact: I switch between four languages in a single day
 
-## 🚀 Latest Team Project
+---
+
+### 🛠 Tech stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
+![Express](https://img.shields.io/badge/Express-000000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
+
+### 📫 Contact me
+
+[LinkedIn](https://www.linkedin.com/in/yana-pechenenko/) · [pechenenko.ya@gmail.com](pechenenko.ya@gmail.com)
+
+## 🔭 Latest project
 
 **[LocEvent](https://github.com/HackYourFutureProjects/c55-final-project-group-A)** · [Live Demo]([https://your-demo-link](https://c55a.hyf.dev))  
 A full-stack platform for discovering local events across the Netherlands, combining admin-created events with ~900 real Ticketmaster listings from our data pipeline.
 
-Team of five across three tracks: frontend ([Diana]([https://github.com/d](https://github.com/dianadenwik)), backend (me & [Shadi]([https://github.com/shadi](https://github.com/shmoonwalker)), and data ([Mohammed]([https://github.com/name](https://github.com/mohammedalfakih-dev)) & [Pavel]([https://github.com/name](https://github.com/pavel-tisner)).
+Team of five across three tracks: frontend, backend and data.
 
 **What I built on the backend:**
 - 🔐 **Authentication** — sign-up, login and logout with HttpOnly cookie sessions (only token hashes stored), plus Google OAuth with CSRF protection and verified-email checks
@@ -30,29 +54,6 @@ Team of five across three tracks: frontend ([Diana]([https://github.com/d](https
 
 **Stack:** Java 25 · Spring Boot 4.1 · Spring Security · PostgreSQL · Flyway · JdbcClient · Google OAuth 2.0 · Gemini API · OpenAPI/Scalar · Docker · Railway
 
-## 🌱 Interests
-
-- 💻 Full-stack development & modern web technologies
-- 🎨 UI/UX and digital aesthetics
-- ⚙️ System thinking & automation
-- 📚 Continuous learning and self-development
-- 🌍 Traveling & exploring new cultures
-- 🎭 Visiting theatres & exploring museums
-- 🧠 Psychology & understanding human behavior
-- 💬 Learning languages
-
-## 🔧 Currently deepening
-
-- 🐳 Docker & containerization
-- 🔁 CI/CD pipelines
-
-## 🚀 Technologies I want to learn
-
-- 📱 React Native — to build cross-platform mobile applications
-- 🐍 Python — for automation, backend tools, and expanding versatility
-- ⚛️ Advanced Next.js — deeper SSR, performance, architecture patterns
-- ☁️ Cloud & deployment — AWS
-- 🧪 Testing frameworks — Jest, React Testing Library, Cypress  
 
 ## 📊 Top Languages
 
