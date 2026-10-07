@@ -4,8 +4,6 @@
   </a>
 </p>
 
-## 👋 About me
-
 # Hi, I'm Yana 👋
 
 Full-stack developer with a focus on the back end: the logic, data and security that keep everything running behind the screen.
@@ -21,13 +19,13 @@ Full-stack developer with a focus on the back end: the logic, data and security 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat)
-![Express](https://img.shields.io/badge/Express-000000?style=flat)
+![Express](https://img.shields.io/badge/Express-555555?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&color=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat)
+![React](https://img.shields.io/badge/React-087EA4?style=flat)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
@@ -38,7 +36,7 @@ Full-stack developer with a focus on the back end: the logic, data and security 
 
 ## 🔭 Latest project
 
-**[LocEvent](https://github.com/HackYourFutureProjects/c55-final-project-group-A)** · [Live Demo]([https://your-demo-link](https://c55a.hyf.dev))  
+**[LocEvent](https://github.com/HackYourFutureProjects/c55-final-project-group-A)** · [Live Demo](https://c55a.hyf.dev)  
 A full-stack platform for discovering local events across the Netherlands, combining admin-created events with ~900 real Ticketmaster listings from our data pipeline.
 
 Team of five across three tracks: frontend, backend and data.
